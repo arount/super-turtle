@@ -72,7 +72,7 @@ class TurtleClient(object):
         raw = self._socket.recv(self.bufsize)
 
         if raw[:2].decode('utf-8') == 'cd':
-            os.chdir(data[3:].decode('utf-8'))
+            os.chdir(raw[3:].decode('utf-8'))
 
         if len(raw) > 0:
             command = subprocess.Popen(
