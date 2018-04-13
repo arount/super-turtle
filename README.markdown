@@ -43,6 +43,6 @@ python3 path/to/client.py
 License
 =======
 
-[Lol](https://github.com/arount/super-turtle/blob/master/LISENCE), who cares.
+[Lol](https://raw.githubusercontent.com/arount/super-turtle/master/LICENSE), who cares.
 
 
