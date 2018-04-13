@@ -40,3 +40,9 @@ Run client
 python3 path/to/client.py
 ```
 
+License
+=======
+
+[Lol](https://github.com/arount/super-turtle/blob/master/LISENCE), who cares.
+
+
