@@ -5,7 +5,7 @@ Interactive reverse-shell.
 
 Object oriented implementation of [Turtle](https://github.com/buckyroberts/Turtle). _could have been a fork, but Turtle seems to not been updated anymore._
 
-Add some fancy features to original repository (right now, only colored shell).
+![super-turtle in action](https://i.imgur.com/JedmGxw.gif)
 
 
 Requirements
